@@ -2,7 +2,8 @@
 author = "Ronen"
 title = "Support"
 date = "2024-03-05"
-description = "Guide "
+description = "Guide"
+image = "12.jpg"
 
 +++
 
