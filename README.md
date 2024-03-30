@@ -1,3 +1,2 @@
 "# slack-full" 
-"# slack-full" 
-"# slack-full" 
+a hugo based site for testing the slack theme.
